@@ -1,0 +1,5 @@
+{
+  "image": "ghcr.io/hspaans/devcontainer-features/django-upgrade:1",
+  "features": {
+  }
+}
